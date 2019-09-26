@@ -1,5 +1,5 @@
 private String name;
-    private final double weightPounds;
+    private final double weightPounds
 
     public Dog()
     {
